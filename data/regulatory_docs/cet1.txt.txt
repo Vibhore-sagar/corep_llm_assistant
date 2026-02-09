@@ -1,0 +1,7 @@
+Common Equity Tier 1 (CET1) capital consists of common shares, retained earnings, and other comprehensive income.
+
+Banks must deduct intangible assets from CET1.
+
+CET1 must be the highest quality capital and fully available to absorb losses.
+
+Institutions must report CET1 under the Own Funds COREP template.

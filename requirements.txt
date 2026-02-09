@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+faiss-cpu
+sentence-transformers
+python-dotenv
